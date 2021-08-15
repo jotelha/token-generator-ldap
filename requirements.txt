@@ -1,4 +1,4 @@
 flask
-flask-jwt-extended[asymmetric_crypto]
+flask-jwt-extended[asymmetric_crypto]>=4.0
 flask-ldap3-login
 flask-cors
